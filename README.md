@@ -18,7 +18,7 @@ This application is perfect for real estate professionals, architects, or anyone
 ## **Screenshots**
 
 ### **Main Interface**
-![Main Screen](![1](https://github.com/user-attachments/assets/8bedbd2d-8b94-475d-9a9e-f373c5698855))
+![Main Screen](![1](https://github.com/user-attachments/assets/f2b9da08-0460-41b2-a34f-451fecae591f))
 
 ### **Blueprint Visualization**
 ![Blueprint Display(![2](https://github.com/user-attachments/assets/7e3120a9-fc47-498c-83a8-964a2f7fc08b))
